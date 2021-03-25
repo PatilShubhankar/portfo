@@ -56,9 +56,7 @@ def submit_form():
 # def works():
 #     return render_template('/works.html')
 #
-# @app.route('/work.html')
-# def work():
-#     return render_template('/work.html')
+#
 #
 # @app.route('/contact.html')
 # def contact():
